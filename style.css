@@ -1,3 +1,9 @@
 body {
-	background-color: palevioletred;
+	background-color: grey;
+}
+
+
+#TETRIS {
+	background-color: lightcyan;
+	border: solid 1px black;
 }
